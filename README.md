@@ -1,2 +1,2 @@
-# flutter
+# web
 aplikasi pertama saya
